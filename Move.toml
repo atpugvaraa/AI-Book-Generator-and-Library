@@ -1,0 +1,13 @@
+[package]
+name = "RockPaperScissors_01"
+version = "1.0.0"
+authors = []
+[addresses]
+metaschool = "Replace_with_your_wallet_address_🔑"
+std = "0x1"
+[dev-addresses]
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "mainnet"
+subdir = "aptos-move/framework/aptos-framework"
+[dev-dependencies]
