@@ -3,7 +3,6 @@
 
 Arshdeep Singh Malhotra - Backend (react.js, next.js)
 <br>
-\n
 Shaina Gera, Harshjyot Kaur and Prince Sharma - Frontend (html, css, tailwindcss, react.js)
 
 Aarav Gupta - Ideation, UI/UX and Leadership
